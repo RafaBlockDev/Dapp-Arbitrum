@@ -35,7 +35,9 @@
     "url": "https://github.com/truffle-box/arbitrum-box/issues"
   },
   "homepage": "https://github.com/truffle-box/arbitrum-box#readme",
-  "dependencies": {},
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.1"
+  },
   "devDependencies": {
     "@truffle/hdwallet-provider": "^1.4.1",
     "dotenv": "^10.0.0"
